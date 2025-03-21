@@ -1,5 +1,4 @@
 using System;
-using System.IO;
 
 class Program
 {
@@ -35,5 +34,5 @@ class Program
         }
 
         Console.WriteLine("Thank you for using the Scripture Memorizer Program!");
-    }
+    }
 }
