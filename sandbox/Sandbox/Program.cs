@@ -38,4 +38,3 @@ class Program
         }
         Console.WriteLine($"\nSize = {list.Count}, Capacity = {list.Capacity}");
     }
-}
